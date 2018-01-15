@@ -1,0 +1,2 @@
+#,Adult_min_age,Adult_max_age,child_min_age,child_max_age,
+14,61,6,13,
